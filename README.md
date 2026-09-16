@@ -1,0 +1,1 @@
+Repository for cloud computing lab assignments and projects. 
